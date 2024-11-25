@@ -1,3 +1,3 @@
-# Root Beer's SE LINUX FLAG is false positive 
+# Root Beer's SE LINUX FLAG detection is false positive 
 # CUSTOM ROM detection is ignorable
 # Lineage package name overlay detection is ignorable
