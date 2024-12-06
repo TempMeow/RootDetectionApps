@@ -15,7 +15,9 @@
 | Root App Checker      | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/Root%20App%20Checker%20v1.apk)                         |
 | Ruru                  | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/Ruru%20v1.1.1.15.apk)                         |
 | Securify              | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/Securify%20v1.3.0.apk)                         |
-| TB Checker            | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/TB%20Checker%20v2.7.4.apk)                         |
+| TB Checker            | [Download](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker&hl=en_IN&redirect=0)                         |
+
+## Give this repo a ⭐ if you found it helpful
 
 ## Disclaimer
 
