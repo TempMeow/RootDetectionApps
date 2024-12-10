@@ -1,7 +1,7 @@
 # Root Beer's SE LINUX FLAG detection is false positive 
 # CUSTOM ROM detection is ignorable
 # Lineage package name overlay detection is ignorable
-# These are false positive-
+# [Native Detector] These are false positive-
 
 if (item.path.starts_with("/memfd:jit-cache") 
             item.path.starts_with("/dev/ashmem/jit-cache") 
