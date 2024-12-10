@@ -17,7 +17,7 @@
 | Securify              | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/Securify%20v1.3.0.apk)                         |
 | TB Checker            | [Download](https://play.google.com/store/apps/details?id=krypton.tbsafetychecker&hl=en_IN&redirect=0)                         |
 
-# ULTIMATE ROOT HIDE GUIDE & PLAY INTEGRITY FIX
+## ULTIMATE ROOT HIDE GUIDE & PLAY INTEGRITY FIX
 [Telegraph](https://telegra.ph/Mona-11-29-3) | [Video Tutorial](https://youtu.be/Ylvl3AQgtM8?feature=shared) | [App Compatibility List](https://telegra.ph/APPS-WHICH-DOESNT-REQUIRE-STRONG-INTEGRITY-11-26)
 
 ## Give this repo a ⭐ if you found it helpful
