@@ -9,7 +9,7 @@
 | Hunter                | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/Hunter%20v6.0.2.apk)                         |
 | Memory Detector       | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/Memory%20Detector%20v2.1.0.apk)                         |
 | Momo                  | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/Momo%20v4.4.1.apk)                         |
-| Native Root Detector  | [Download](https://github.com/reveny/Android-Native-Root-Detector/releases)                         |
+| Native Root Detector  | [Download](https://github.com/TempMeow/RootDetectionApps/raw/refs/heads/main/archive/Native%20Root%20Detector%206.6.0.apk)                         |
 | NativeTest            | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/NativeTest%20v27.apk)                         |
 | RomSignCheck          | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/RomSignCheck.apk)                         |
 | Root App Checker      | [Download](https://raw.githubusercontent.com/TempMeow/RootDetectionApps/refs/heads/main/archive/Root%20App%20Checker%20v1.apk)                         |
